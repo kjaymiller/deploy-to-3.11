@@ -18,7 +18,8 @@
 		"vscode": {
 			"extensions": [
 				"eamodio.gitlens",
-				"ms-python.python"
+				"ms-python.python",
+				"ysemeniuk.emmet-live"
 			]
 			
 		}
